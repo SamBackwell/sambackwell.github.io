@@ -1,8 +1,13 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 h3 {
 	colour: #82FF9E
 }
+
+
+@import "{{ site.theme }}";
+
+@import ./css/bootstrap.min.css
+
+

@@ -31,8 +31,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## Sam's Pages
 
 [coasters](./coasters)
+
 [podcast](./podcast/index.md)
-[test](./test)
+
+[test](./tests)
 
 ### Link Testing
 Link to the new page for coasters: [click here](coasters/index.md)
