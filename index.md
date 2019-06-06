@@ -28,6 +28,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Sam's Pages
+
+[coasters](./coasters)
+[podcast](./podcast/index.md)
+[test](./test)
+
 ### Link Testing
 Link to the new page for coasters: [click here](coasters/index.md)
 
