@@ -6,8 +6,9 @@ h3 {
 }
 
 
+//@import "jekyll-theme-tactile"; //broke everything
 @import "{{ site.theme }}";
 
-@import ./css/bootstrap.min.css
+//@import ./css/bootstrap.min.css ;
 
 

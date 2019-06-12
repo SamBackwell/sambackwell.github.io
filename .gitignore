@@ -1,0 +1,6 @@
+
+#Gem
+Gemfile
+Gemfile.lock
+*.gemspec
+script/
