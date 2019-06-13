@@ -97,7 +97,7 @@ table {
 
 .container {
   width: 100%;
-  max-width: 950px;
+  /* max-width: 950px; */
   margin: 0 auto; }
   .container:after {
     content: ".";
@@ -203,7 +203,8 @@ form input {
   margin-bottom: 0.5em; }
 
 form textarea {
-  margin-bottom: 1em; }
+  margin-bottom: 1em;
+  height: 20em; }
 
 .animate {
   -moz-animation-iteration-count: once;
