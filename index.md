@@ -10,8 +10,8 @@
 
 
 
-| [Coaster Conversations](./coasters) | [Talking Through Ideas ](./podcast/index.md) | 
-| [![Coaster1](coasters/img/physical1.jpg)](./coasters)|  [![Podcast_pic](coasters/img/physical1.jpg)](./podcast/index.md) | 
+| [Coaster Conversations](./coasters) | [Talking Through Ideas ](./podcast) | 
+| [![Coaster1](coasters/img/physical1.jpg)](./coasters)|  [![Podcast_pic](podcast/thumb.png)](./podcast) | 
 | [Instant Engagement Poster](HAL/index.html) | [HAL and the NAS](./NAS) |
 | [![HAL_poster](coasters/img/physical1.jpg)](HAL/index.html)|  [![Big_poster](coasters/img/physical1.jpg)](./NAS) | 
 
