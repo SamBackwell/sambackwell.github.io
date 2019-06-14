@@ -12,11 +12,11 @@ title: 'Opening the Conversation'
 
 
 
-| [Coaster Conversations](./coasters) | | [Talking Through Ideas ](./podcast) | 
-| [![Coaster1](coasters/img/physical1.jpg)](./coasters) | |  [![Podcast_pic](podcast/thumb.png)](./podcast) | 
-| | | |
-| [Instant Engagement Poster](HAL/index.html) | | [HAL and the NAS](./NAS) |
-| [![HAL_poster](/HAL/thumb.png)](HAL/index.html) | |  [![Big_poster](--)](./NAS) | 
+| [Coaster Conversations](./coasters) | [Talking Through Ideas ](./podcast) | 
+| [![Coaster1](coasters/img/physical1.jpg)](./coasters) |  [![Podcast_pic](podcast/thumb.png)](./podcast) | 
+| | |
+| [Instant Engagement Poster](HAL/index.html) | [HAL and the NAS](./NAS) |
+| [![HAL_poster](/HAL/thumb.png)](HAL/index.html) |  [![Big_poster](--)](./NAS) | 
 
 
 
