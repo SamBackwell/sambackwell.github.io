@@ -18,7 +18,16 @@ a, h3 {
 
 ul li {
     list-style-position: inside;
-    list-style: Square;
+    list-style: disc;
     padding: auto;
     padding-left: 5px;
+}
+
+table {
+    width: 100%;
+    table-layout: fixed;
+}
+
+table, td {
+	border: 5px solid rgba(255, 255, 255, 0);
 }

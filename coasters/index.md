@@ -6,7 +6,7 @@ title: Coaster Conversations
 
 
 <p>
-	Sparking a conversation can be as simple as seeding the right idea in the right place. A good fact, or even a good story isn’t enough, you must connect, engage and invite contribution. Sometimes the best conversations start with a problem to ponder – generating insight, understanding and an appreciation of others’ perspectives even if there is no objective answer possible (which can itself be an insight). 
+	Sparking a conversation can be as simple as seeding the right idea in the right place. A good fact, or even a good story isn't enough, you must connect, engage and invite contribution. Sometimes the best conversations start with a problem to ponder – generating insight, understanding and an appreciation of others’ perspectives even if there is no objective answer possible (which can itself be an insight). 
 </p>
 
 <p>
