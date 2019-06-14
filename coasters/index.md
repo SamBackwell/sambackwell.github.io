@@ -1,38 +1,14 @@
-# Hello World
-Greetings from vim
+# Coaster Conversations
 
-[Coaster 1](~/c1)
-
-[Coaster 1](../c1)
-
-[Coaster 1](~/c1.html)
-
-[Coaster 1](../c1.html)
+A description from the portfolio
 
 
 
-![Image](img/coaster1.png)
+Click below to explore each coaster design and join the conversation!
 
 
-![Image](~/coasters/img/coaster1.png)
-
-![Image](/coasters/img/coaster1.png)
-
-
-
-| Priority apples | Second priority | Third priority |
-|-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| [![Coaster1](img/coaster1.png)](/c1) | [![Coaster2](img/coaster2.png)](/c2) |
+| [![Coaster3](img/coaster3.png)](/c3) | [![Coaster4](img/coaster4.png)](/c4) |
+| [![Coaster5](img/coaster5.png)](/c5) | [![Coaster6](img/coaster6.png)](/c6) |
 
 
-
-| ![Coaster1](img/coaster1.png) | ![Coaster2](img/coaster1.png) |
-| ![Coaster3](img/coaster3.png) | ![Coaster4](img/coaster4.png) |
-| ![Coaster5](img/coaster5.png) | ![Coaster6](img/coaster6.png) |
-
-
-
-
-[![Coaster1](img/coaster1.png)](../c1)
