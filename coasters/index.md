@@ -14,7 +14,7 @@ title: Coaster Conversations
 </p>
 
 
-| [![Coaster1](/coasters/img/physical1.png)](/c1) | [![Coaster2](img/physical2.png)](/c2) |
+| [![Coaster1](coasters/img/physical1.jpg)](/c1) | [![Coaster2](img/physical2.png)](/c2) |
 | [![Coaster3](img/physical3.png)](/c3) | [![Coaster4](img/physical4.png)](/c4) |
 | [![Coaster5](img/physical5.png)](/c5) | [![Coaster6](img/physical6.png)](/c6) |
 
